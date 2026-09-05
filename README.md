@@ -181,8 +181,6 @@ This was done to reduce the chance of the customized plugin being automatically 
 
 ## Smart Summary API Blocked Issue
 
-**Date documented:** 02-08-2025
-
 The website/domain IP was blocked by the Smart Summary API service. To work around this, the API requests were changed so they are sent through the WordPress server instead of directly from the browser.
 
 ### Steps
